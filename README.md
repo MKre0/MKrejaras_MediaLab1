@@ -18,3 +18,7 @@ or try a live example: https://jsbin.com/gejugat/edit?html,output
   - Test player on at least two browsers and specify in README.md which version and browser it was.
   - Additional features are welcome and bonuses are available.
   - To pass this lab, you have to complete at least two points from the requirement list.
+
+ # Browsers:
+    - Mozzila Firefox 148.0.2
+    - Microsoft Edge Version 146.0.3856.62
